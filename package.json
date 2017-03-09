@@ -1,0 +1,26 @@
+{
+  "name": "jira-add",
+  "version": "0.0.1",
+  "description": "Sloppy CLI to create JIRA tickets that can be run with xargs or do loops",
+  "main": "jira-add.js",
+  "bin": {
+    "jira-add": "./jira-add.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmactough/jira-add.git"
+  },
+  "keywords": [
+    "jira",
+    "cli"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmactough/jira-add/issues"
+  },
+  "homepage": "https://github.com/danmactough/jira-add#readme"
+}
